@@ -1,1 +1,1 @@
-# Training Verilog
+# Training Verilog - HDL
